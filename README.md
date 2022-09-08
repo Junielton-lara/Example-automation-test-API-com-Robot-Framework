@@ -25,6 +25,10 @@ Efetuar a exclusão de contatos
 #
 ##
 
+Comando base para executa este projeto: 
+robot -d/log teste.robot
+
+
 ## Desenvolvida a Keywords EXECUTE para deixar facil os testes de API:
 
 | -  |  -  |
